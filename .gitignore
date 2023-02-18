@@ -1,0 +1,7 @@
+# Project exclude paths
+/build
+/log.txt
+/.vscode
+/data/content
+/TCPServer
+/tmp
